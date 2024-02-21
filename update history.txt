@@ -1,0 +1,5 @@
+10-OCT-2013
+Added errata read_me.txt file
+
+6-APR-2013
+Release directory updated.
