@@ -6,7 +6,7 @@
 
   (paper "A3")
   (title_block
-    (title "DZ Project")
+    (title "STM32")
     (date "2024-02-21")
     (company "No available")
   )
